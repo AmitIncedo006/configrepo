@@ -1,0 +1,8 @@
+my:
+    greeting: Hello Word from config server
+    list:
+      values: One, Two, Three, Four
+db:
+    connection: connextion-string-here-from-config-srver
+    host: 127.0.0.1
+    port: 1200
