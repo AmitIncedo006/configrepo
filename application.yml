@@ -3,6 +3,6 @@ my:
     list:
       values: One, Two, Three, Four
 db:
-    connection: connextion-string-here-from-config-srver
+    connection: connection-string-here-from-config-srver
     host: 127.0.0.1
     port: 1200
